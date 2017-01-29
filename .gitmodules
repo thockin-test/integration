@@ -1,0 +1,12 @@
+[submodule "vendor/github.com/thockin-test/util"]
+	path = vendor/github.com/thockin-test/util
+	url = https://github.com/thockin-test/util
+	branch = master
+[submodule "vendor/github.com/thockin-test/kubelet"]
+	path = vendor/github.com/thockin-test/kubelet
+	url = https://github.com/thockin-test/kubelet
+	branch = master
+[submodule "vendor/github.com/thockin-test/kube-apiserver"]
+	path = vendor/github.com/thockin-test/kube-apiserver
+	url = https://github.com/thockin-test/kube-apiserver
+	branch = master
